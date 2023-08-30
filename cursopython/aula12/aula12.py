@@ -14,5 +14,7 @@ nomeFormatado = '{1:#^20}'.format(nome, sobrenome)
 print(nomeFormatado)
 """
 
+nome = 'Paulo'
+print(nome[2])
 
 
