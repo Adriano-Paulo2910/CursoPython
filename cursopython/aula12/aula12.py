@@ -14,7 +14,6 @@ nomeFormatado = '{1:#^20}'.format(nome, sobrenome)
 print(nomeFormatado)
 """
 
-nome = 'Paulo'
-print(nome[2])
-
-
+# Fatiamento de String
+nome = 'Paulo Cadeth Adriano'
+print(nome[::])
